@@ -1,6 +1,10 @@
 Конвертер цветов из HEX в RGB
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cm1uk82w5n7i5u52?svg=true)](https://ci.appveyor.com/project/darknessdizi/rect-04-task1)
+
+*Ссылка на страницу:* https://darknessdizi.github.io/Rect_04_task1/
+
 Вам необходимо разработать конвертер цветов из HEX в RGB.
 
 ![Конвертер цветов](./assets/preview.png)
