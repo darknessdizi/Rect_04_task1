@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 type Colors = {
   red: number,
